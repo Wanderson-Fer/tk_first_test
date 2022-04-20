@@ -1,2 +1,3 @@
-# tk_first_test
-Using Tkinter to python, a first time
+# Tinker : First Test
+
+>>> Using Tkinter to python, a first time
